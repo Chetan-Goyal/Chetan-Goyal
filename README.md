@@ -17,7 +17,7 @@
 <p align="left">  
 <a href="mailto:chetangoyal@ddu.du.ac.in" target="blank"><img align="center" src="https://github.com/Chetan-Goyal/Chetan-Goyal/blob/main/icons/mail.png?raw=true" alt="chetan_goyal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chetan--" target="blank"><img align="center" src="https://raw.githubusercontent.com/Chetan-Goyal/Chetan-Goyal/main/icons/linkedin.svg" alt="chetan--" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/chetan-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/Chetan-Goyal/Chetan-Goyal/main/icons/stack-overflow.svg" alt="chetan-goyal" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/12012721/chetan-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/Chetan-Goyal/Chetan-Goyal/main/icons/stack-overflow.svg" alt="chetan-goyal" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/chetan_goyal" target="blank"><img align="center" src="https://github.com/Chetan-Goyal/Chetan-Goyal/blob/main/icons/hackerrank.png?raw=true" alt="chetan_goyal" height="30" width="40" /></a>  
 </p>  
   
