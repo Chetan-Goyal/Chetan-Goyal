@@ -3,13 +3,13 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-goyal&label=Profile%20views&color=8c21d4&style=plastic" alt="chetan-goyal" /> </p>  
   
-- 🌱 I’m currently learning **Blockchain**  
+- 🌱 I’m currently learning **Advanced Concepts in Flutter**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan-Goyal/](https://github.com/Chetan-Goyal/)  
   
 - 💬 Ask me about **python, django, flask and flutter**  
   
-- ⚡ Fun fact **Spotify + Programming = ❤️**
+- ⚡ Fun fact **Programming + Music = ❤️**
   
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan-goyal&show_icons=true&theme=dark&locale=en" alt="chetan-goyal" /></p>  
   
