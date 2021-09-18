@@ -11,7 +11,7 @@
   
 - ⚡ Fun fact **Programming + Music = ❤️**
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan-goyal&show_icons=true&theme=dark&locale=en" alt="chetan-goyal" /></p>  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chetan-Goyal&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="chetan-goyal" /></p>  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
