@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-goyal&label=Profile%20views&color=8c21d4&style=plastic" alt="chetan-goyal" /> </p>  
   
-- 🌱 I’m currently learning **Javascript**  
+- 🌱 I’m currently learning **Kotlin**  
   
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan-Goyal/](https://github.com/Chetan-Goyal/)  
   
